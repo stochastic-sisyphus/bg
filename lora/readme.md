@@ -1,0 +1,1 @@
+# LoRA adapter for Bulgarian 
